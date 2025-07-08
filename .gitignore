@@ -1,3 +1,6 @@
 *.old
 *.out
+*.tex
+*.dvi
+*.pdf
 states/
